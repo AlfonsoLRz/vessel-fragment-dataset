@@ -1,0 +1,5 @@
+decompress/.idea/
+decompress/venv
+
+decompress/decompress_point_cloud/.vs/
+decompress/decompress_point_cloud/x64/
